@@ -1,4 +1,11 @@
 # customer-driven-data-science
 
-This Repo mainly contains exercise files for Customer Analytics and Data Science Course of 365 Datascience.     
-Also recommend to check out this [repo](https://github.com/UsmanNiazi/365datascience) for more 360 datascience practice python notebook. 😀
+In this repo, we want to highlight some key data science use cases in marketing. Let us concentrate on several instances that present particular interest and managed to prove their efficiency in the course of time.
+
+- Customer segmentation
+- Predictive analytics for customers' behavior
+- Predictive analytics to qualify and prioritize leads
+- Predictive analytics to bring the right product to the market
+- Predictive analytics for targeting
+- Recommendation engines
+- Real-time analytics
